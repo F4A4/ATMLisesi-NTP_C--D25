@@ -1,0 +1,3 @@
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\25.GÜN\SinifÖdev\SinifÖdev\obj\x86\Debug\SinifÖdev.Form1.resources
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\25.GÜN\SinifÖdev\SinifÖdev\obj\x86\Debug\SinifÖdev.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\25.GÜN\SinifÖdev\SinifÖdev\obj\x86\Debug\SinifÖdev.csproj.GenerateResource.Cache
